@@ -1,10 +1,10 @@
-number_1 = 10
-number_2 = 5
+number1 = 10
+number2 = 5
 
-sum = number_1 + number_2
-sub = number_1 - number_2
-product = number_1 * number_2
+sum = number1 + number2
+sub = number1 - number2
+product = number1 * number2
 
-print(f"Adiition of {number_1} and {number_2} is {sum}")
-print(f"Subtraction of {number_1} and {number_2} is {sub}")
-print(f"Product of {number_1} and {number_2} is {product}")
+print(f"Adiition of {number1} and {number2} is {sum}")
+print(f"Subtraction of {number1} and {number2} is {sub}")
+print(f"Product of {number1} and {number2} is {product}")
